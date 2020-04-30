@@ -1,4 +1,4 @@
-# Stackoverflow Data analysis
+# Stackoverflow Data analysis - How the programming community changed in 1 year?
 The Stack Overflow 2018 - 2019 surveys available at https://insights.stackoverflow.com/survey data were used here in order to get some information on how programming community changed in 1 year
 ### Table of Contents
 
